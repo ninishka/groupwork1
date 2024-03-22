@@ -36,9 +36,11 @@
   text-decoration: none;
   color: white;
   padding: 0 10px 0;
+  font-family: 'Poppins', sans-serif;
+
  }
 
  .item {
   display: flex;
-  align-items: baseline
+  align-items: baseline;
  }

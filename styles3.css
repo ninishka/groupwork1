@@ -5,7 +5,6 @@
     color: white;
     text-decoration: none;
   }
-  
   .left_box {
     width: 400px; 
     height: 729px;
@@ -16,29 +15,30 @@
     justify-content: space-between;
     align-items: center;
   }
-  
   .box {
     display: flex;
     justify-content: space-between;
     align-items: center; 
     padding: 50px  
    }
-  
    .box2 {
     margin: 0 110px 230px 0;
    }
-  
    .box4 {
     margin-right: 110px;
    }
-  
    .link1, .first_text {
     text-decoration: none;
     color: white;
     padding: 0 10px 0;
    }
-  
    .item {
     display: flex;
     align-items: baseline
    }
+   h3 {
+    display: block;
+    font: size 24px;
+    color: #515151;
+    font-weight: 700px;
+}

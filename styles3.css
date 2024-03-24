@@ -36,18 +36,7 @@
     display: flex;
     align-items: baseline
    }
-   h3 {
-    size: 24px;
-    font: bold;
-    color: #515151;
-    font-weight: 700px;
-    width: 102px;
-    height: 36px;
-    top: 65px;
-    left: 437px;
-    line-height: 36px;
-    display: block;
-}
+   
 form {display: grid;
 }
 

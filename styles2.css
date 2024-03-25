@@ -8,11 +8,16 @@
   flex-direction: row;
   color: white;
   text-decoration: none;
+
+    height: 100vh;
+    background-color: #2f80ed;
+    display: flex;
+    flex-direction: column;
 }
 
 .sider {
   width: 400px; 
-  height: 729px;
+  height: 100vh;
   background-color: #2F80ED;
 
   display: flex;
